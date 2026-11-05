@@ -25,7 +25,7 @@ export default function ResponsibleGamingCaseStudy({
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7 }}
       >
-        <p className="eyebrow">FEATURED CASE STUDY / MOBILE ENGINEERING</p>
+        <p className="eyebrow">FEATURED CASE STUDY / WEB & MOBILE ENGINEERING</p>
 
         <h1>
           Making responsible gaming
@@ -41,7 +41,7 @@ export default function ResponsibleGamingCaseStudy({
         <div className="case-meta">
           <div><small>COMPANY</small><strong>Caesars Entertainment</strong></div>
           <div><small>ROLE</small><strong>React Native Developer</strong></div>
-          <div><small>PLATFORMS</small><strong>iOS & Android</strong></div>
+          <div><small>PLATFORMS</small><strong>Web, iOS & Android</strong></div>
           <div><small>STACK</small><strong>React Native · TypeScript</strong></div>
         </div>
       </motion.header>
@@ -172,7 +172,7 @@ export default function ResponsibleGamingCaseStudy({
             than implementing screens. This work involved
             coordinating API integrations, modeling complex
             states, creating reusable components, and handling
-            user journeys across mobile platforms.
+            user journeys across cross platforms.
           </p>
           <p className="case-note">
             Illustrative portfolio case study based on my engineering
