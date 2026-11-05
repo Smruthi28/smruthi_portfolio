@@ -267,7 +267,7 @@ if (showCaseStudy) {
 
       <div className="project-details">
         <div>
-          <p className="project-category">MOBILE ENGINEERING</p>
+          <p className="project-category">WEB &MOBILE ENGINEERING</p>
           <h3>Responsible Gaming Experience</h3>
           <p className="project-description">
             Built complex React Native workflows integrating
